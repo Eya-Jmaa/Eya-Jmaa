@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://eya-jmaa.github.io"><img src="https://img.shields.io/badge/Portfolio-0b0d14?style=for-the-badge&logo=googlechrome&logoColor=8b7cff" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/eya-jmaa-081654178/"><img src="https://img.shields.io/badge/LinkedIn-0b0d14?style=for-the-badge&logo=linkedin&logoColor=4fd1c5" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/eya-jmaa/"><img src="https://img.shields.io/badge/LinkedIn-0b0d14?style=for-the-badge&logo=linkedin&logoColor=4fd1c5" alt="LinkedIn" /></a>
   <a href="mailto:jmaa.eya@gmail.com"><img src="https://img.shields.io/badge/Email-0b0d14?style=for-the-badge&logo=gmail&logoColor=8b7cff" alt="Email" /></a>
 </p>
 
