@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Eya-Jmaa/AlphaLens"><img src="assets/alphalens.webp" width="49%" alt="AlphaLens" /></a>
-  <a href="https://github.com/Eya-Jmaa/ClinSight-AI"><img src="assets/clinsight.webp" width="49%" alt="ClinSight AI" /></a>
+  <a href="https://github.com/Eya-Jmaa/blind-navigation-assistant"><img src="assets/blindnav.webp" width="49%" alt="Blind Navigation Assistant" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Eya-Jmaa/CryptoIntel"><img src="assets/cryptointel.webp" width="49%" alt="CryptoIntel" /></a>
